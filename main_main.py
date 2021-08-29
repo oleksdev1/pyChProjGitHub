@@ -1,1 +1,1 @@
-print("main_main")
+print("main")
